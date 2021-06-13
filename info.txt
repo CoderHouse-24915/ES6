@@ -1,0 +1,16 @@
+ES6 Tutorial: Learn Modern JavaScript in 1 Hour
+
+https://www.youtube.com/watch?v=NCwa_xi0Uuc
+
+ESTE ES EL JAVASCRIPT QUE NECESITAS PARA APRENDER REACT
+
+https://www.youtube.com/watch?v=sKsNO-quEAw&ab_channel=AprendeJavaScriptconCarlosAzaustreAprendeJavaScriptconCarlosAzaustre
+
+
+var, let, y const
+
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+Hoisting: 
+
+https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36
