@@ -1,3 +1,6 @@
+ES6
+https://carlosazaustre.es/ecmascript6
+
 ES6 Tutorial: Learn Modern JavaScript in 1 Hour
 
 https://www.youtube.com/watch?v=NCwa_xi0Uuc
@@ -14,3 +17,4 @@ https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 Hoisting: 
 
 https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36
+

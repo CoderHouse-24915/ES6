@@ -9,10 +9,24 @@
 // Cada clase es un modelo que define un conjunto de variables y métodos apropiados para operar con dichos datos.
 // Cada objeto creado a partir de la clase se denomina instancia de la clase.
 
-// const person = {
+// const person1 = {
 // 	name: 'Francesca',
 // 	walk() {
-// 		alert.log('walk method');
+// 		console.log('walk method');
+// 	},
+// };
+
+// const person2 = {
+// 	name: 'Francesca',
+// 	walk() {
+// 		console.log('walk method');
+// 	},
+// };
+
+// const person3 = {
+// 	name: 'Francesca',
+// 	walk() {
+// 		console.log('walk method');
 // 	},
 // };
 
@@ -36,9 +50,13 @@ class Person {
 
 // Al momento de instanciar un objeto el metodo constructor() es llamado
 
-// const daniel = new Person('Daniel', 36);
+const daniel = new Person('Daniel', 36);
 
-// // const persona1 = new Person('Francesca');
+daniel.walk();
+
+// console.log(daniel.age);
+
+const persona1 = new Person('Francesca', 25);
 // // const persona2 = new Person('Francesca');
 // // const persona2 = new Person('Francesca');
 

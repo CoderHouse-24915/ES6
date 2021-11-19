@@ -19,6 +19,8 @@ const items = [
 	{ nombre: 'Laptop', precio: 700 },
 ];
 
+items;
+
 // --> Filter
 // Retorna los elementos que cumplan la condicion
 

@@ -19,6 +19,8 @@
 
 // console.log(datosUsuario('Ezequiel', 'Garcia', 25, 'Bariloche'));
 
+// `Lorem Ipsum ${miVariable}`
+
 const datosUsuario = (name, lastName, age, city) => {
 	return `El nombre del usuario es ${name} ${lastName}, su edad es de ${age} años y vive en la ciudad de ${city}`;
 };

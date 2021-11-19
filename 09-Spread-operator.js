@@ -20,6 +20,6 @@ const second = [4, 5, 6];
 // Parece que no es mucha la diferecia...pero que pasa si quisieramos agregar
 // un elemento en medio, por ej?
 
-const combined = [...first, 'a', ...second, 'b'];
+const combined = [...first, 'a', true, 898, ...second, 'b'];
 
 console.log(combined);

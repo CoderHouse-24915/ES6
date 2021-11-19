@@ -13,4 +13,6 @@ const person = {
 };
 
 // // Para acceder a estos metodos y propiedades usamos la sintaxis de punto
-// person.talk();
+person.talk();
+
+console.log('El nombre de la persona es ' + person.name);

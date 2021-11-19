@@ -18,7 +18,7 @@
 // No obstante, con los parametros por defecto, resolver este problema, es mucho más fácil
 
 const registrarUsuario = (
-	name = 'Usuario x',
+	name = 'No registro nombre',
 	lastName,
 	age,
 	city,
@@ -28,4 +28,4 @@ const registrarUsuario = (
 Si necesitamos contactarte lo haremos al telefono ${telephone}`;
 };
 
-console.log(registrarUsuario(undefined, 'Perez', 20, 'Mar del Plata'));
+console.log(registrarUsuario(null, 'Perez', 20, 'Mar del Plata', 6666666666));

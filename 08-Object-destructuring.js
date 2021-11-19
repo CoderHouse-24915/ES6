@@ -10,8 +10,6 @@ const direccion = {
 
 // console.log(street, city, country);
 
-// ************************************************************************************************ //
-
 // Mediante destructuración, podemos obtener la información dentro de los objetos de forma más sencilla y elegante
 
 const { street, city, country } = direccion;

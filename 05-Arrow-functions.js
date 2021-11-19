@@ -1,3 +1,6 @@
+// Las funciones flechas no sobrescriben el valor de this
+// dentro de un objeto
+
 // const cuadrado = function (number) {
 //   return number * number;
 // };
